@@ -1,0 +1,424 @@
+ResponseID,Gender,Role,CompanySize,Industry,Region,AIStage,YearsExperience,Efficiency_1,Efficiency_2,Efficiency_3,Efficiency_4,Efficiency_5,Efficiency_6,Efficiency_7,Experience_1,Experience_2,Experience_3,Experience_4,Experience_5,Experience_6,Experience_7,Fairness_1,Fairness_2,Fairness_3,Fairness_4,Fairness_5,Fairness_6,Fairness_7,Trust_1,Trust_2,Trust_3,Trust_4,Trust_5,Trust_6,Trust_7
+R0001,Female,Managerial,SME (<500),Financial Services,Europe,Full Deployment,25,5,4,3,3,4,4,4,4,2,3,3,3,3,4,4,2,3,4,3,4,3,2,2,3,2,3,3,3
+R0002,Female,Operational,Large (>500),Other,North Africa,Early Exploration,21,4,3,4,4,3,3,5,3,4,3,2,4,4,4,2,2,3,3,2,2,3,4,2,5,2,2,2,4
+R0003,Female,Managerial,Large (>500),Manufacturing,North Africa,Pilot,4,4,5,4,3,3,3,4,3,3,4,3,3,2,3,2,3,4,3,3,3,4,3,3,2,3,3,4,2
+R0004,Female,Managerial,SME (<500),Manufacturing,Europe,Pilot,15,4,4,3,3,5,3,3,3,2,2,3,3,3,4,5,2,4,2,2,3,1,5,3,2,3,4,4,3
+R0005,Female,Managerial,Large (>500),Logistics,Gulf,Full Deployment,10,3,3,5,3,4,3,3,3,3,3,4,3,3,4,4,3,3,3,3,3,3,3,2,3,2,4,1,2
+R0006,Male,Managerial,SME (<500),Logistics,Europe,Full Deployment,5,3,3,2,4,5,4,3,3,3,2,4,4,3,3,3,4,3,3,4,1,4,3,2,2,4,3,3,3
+R0007,Male,Managerial,SME (<500),Technology,Europe,Pilot,2,4,4,4,3,2,4,4,3,3,3,3,5,3,3,3,3,2,2,3,2,3,2,3,4,2,2,4,4
+R0008,Female,Managerial,Large (>500),Logistics,Gulf,Early Exploration,20,2,3,4,5,4,4,3,3,3,4,4,4,5,3,3,3,3,5,4,2,3,3,3,1,1,1,2,2
+R0009,Male,Managerial,Large (>500),Manufacturing,Europe,Full Deployment,25,3,3,3,3,4,5,4,4,5,3,4,4,3,3,3,2,3,4,2,3,3,2,4,1,1,2,2,2
+R0010,Female,Managerial,SME (<500),Manufacturing,Europe,Pilot,8,3,3,3,4,5,2,4,2,3,4,4,3,3,4,4,2,2,4,3,2,4,4,2,3,2,3,3,2
+R0011,Female,Managerial,Large (>500),Financial Services,North Africa,Pilot,10,5,2,3,5,2,5,2,3,5,5,4,5,3,4,2,3,2,4,2,3,2,2,2,2,4,2,2,1
+R0012,Female,Operational,SME (<500),Technology,Gulf,Pilot,21,3,5,4,3,3,4,3,4,4,4,4,3,4,3,3,4,4,3,2,3,2,2,2,3,1,3,3,2
+R0013,Female,Operational,SME (<500),Technology,Europe,Early Exploration,11,4,4,4,4,2,4,4,4,3,3,3,3,3,4,4,3,3,2,2,3,4,2,3,3,3,2,3,1
+R0014,Male,Operational,SME (<500),Other,North Africa,Full Deployment,25,4,3,4,2,3,5,3,3,2,4,3,4,4,3,3,4,3,3,2,3,3,3,3,2,3,1,4,3
+R0015,Male,Operational,Large (>500),Manufacturing,North Africa,Pilot,15,3,3,4,2,3,4,3,3,3,2,3,2,5,2,1,2,2,2,4,3,3,2,2,3,2,3,3,2
+R0016,Male,Operational,Large (>500),Logistics,Europe,Early Exploration,19,5,4,4,4,4,4,4,3,4,3,3,4,5,5,2,3,2,4,4,3,3,2,2,4,4,2,3,2
+R0017,Female,Managerial,Large (>500),Technology,Gulf,Pilot,23,3,3,5,3,3,4,3,4,3,5,4,3,4,3,4,2,2,3,4,3,3,1,1,3,2,2,4,1
+R0018,Female,Operational,SME (<500),Financial Services,North Africa,Early Exploration,21,3,3,3,4,3,4,4,4,2,3,3,3,4,4,2,4,3,4,3,2,4,3,2,3,2,2,2,2
+R0019,Male,Operational,SME (<500),Manufacturing,North Africa,Pilot,9,4,4,4,4,4,3,4,4,3,1,3,3,4,4,3,3,4,3,3,5,2,2,4,4,1,3,2,2
+R0020,Male,Operational,Large (>500),Technology,North Africa,Pilot,5,4,3,4,4,4,4,3,3,4,3,3,2,4,3,2,3,1,4,4,3,2,2,2,1,3,3,2,2
+R0021,Female,Managerial,Large (>500),Technology,North Africa,Pilot,24,3,3,4,5,3,3,3,2,4,2,2,2,3,4,2,1,3,3,3,4,3,1,2,3,2,1,3,2
+R0022,Male,Operational,Large (>500),Other,Europe,Pilot,25,3,4,5,5,4,3,5,2,3,3,5,4,2,4,3,3,2,2,3,3,2,3,2,1,2,4,2,5
+R0023,Female,Operational,Large (>500),Manufacturing,North Africa,Pilot,5,4,3,2,3,3,3,3,4,3,4,3,2,4,4,4,2,3,2,4,3,3,3,1,2,5,4,3,2
+R0024,Female,Managerial,SME (<500),Manufacturing,Gulf,Early Exploration,10,3,4,3,4,4,4,3,3,4,4,4,2,3,4,3,3,3,1,2,2,4,2,2,3,3,2,4,2
+R0025,Female,Operational,Large (>500),Logistics,Europe,Pilot,25,2,4,2,5,4,3,5,5,5,5,3,4,4,3,3,3,4,4,3,3,3,2,2,2,3,3,2,1
+R0026,Male,Operational,Large (>500),Other,Europe,Full Deployment,22,3,3,4,4,5,3,4,3,4,4,4,3,4,4,2,3,2,4,3,3,2,2,2,1,2,2,2,2
+R0027,Female,Operational,SME (<500),Other,Europe,Full Deployment,16,5,3,3,5,3,3,3,5,4,3,3,4,3,4,5,3,3,3,4,2,5,2,2,1,4,2,3,4
+R0028,Female,Managerial,SME (<500),Financial Services,Gulf,Full Deployment,22,3,3,3,4,4,3,3,5,4,4,1,3,2,3,3,2,3,2,3,2,3,3,3,2,4,2,2,1
+R0029,Male,Managerial,SME (<500),Technology,North Africa,Early Exploration,5,3,4,3,3,4,2,4,4,5,4,2,3,3,4,4,1,3,4,4,5,3,3,4,4,3,3,2,1
+R0030,Male,Managerial,SME (<500),Technology,North Africa,Early Exploration,15,4,3,3,3,3,4,2,5,2,5,3,3,3,5,4,2,3,3,1,1,4,3,4,2,3,4,1,2
+R0031,Female,Operational,Large (>500),Other,Europe,Pilot,6,4,4,4,3,4,3,3,4,3,3,3,4,3,4,4,3,2,4,2,3,2,1,4,2,2,4,5,3
+R0032,Male,Operational,Large (>500),Logistics,Gulf,Pilot,4,4,3,4,4,3,3,3,3,3,3,3,3,3,3,2,1,1,2,1,4,1,3,1,3,2,3,2,5
+R0033,Male,Managerial,Large (>500),Technology,Europe,Pilot,5,4,3,4,4,4,3,3,3,5,2,2,4,4,4,3,3,2,3,1,3,2,3,3,3,3,3,1,2
+R0034,Female,Operational,Large (>500),Financial Services,North Africa,Early Exploration,11,4,3,4,4,3,3,4,1,4,4,3,4,4,4,2,5,1,2,4,4,3,3,2,3,2,2,3,4
+R0035,Male,Operational,Large (>500),Manufacturing,Gulf,Early Exploration,20,3,4,4,4,4,4,3,4,4,4,3,3,3,3,2,4,1,3,3,3,3,2,5,3,3,2,1,2
+R0036,Male,Operational,Large (>500),Logistics,Europe,Pilot,7,4,3,4,2,5,4,4,4,3,3,3,4,3,4,2,3,1,3,2,4,4,1,3,3,3,4,3,1
+R0037,Female,Operational,SME (<500),Other,Gulf,Pilot,23,4,3,3,3,4,3,4,4,3,4,3,4,3,3,3,3,3,3,4,2,2,2,1,3,3,1,1,3
+R0038,Female,Operational,SME (<500),Other,Europe,Full Deployment,16,5,5,3,5,3,4,4,4,3,4,4,4,3,4,2,4,3,2,3,3,3,2,2,1,4,1,2,4
+R0039,Female,Operational,SME (<500),Logistics,Europe,Early Exploration,24,4,3,3,4,4,3,4,2,3,3,3,3,3,4,3,3,4,3,3,3,4,3,4,3,3,1,3,3
+R0040,Female,Operational,Large (>500),Financial Services,Europe,Early Exploration,21,4,3,3,4,3,3,3,4,3,3,3,3,4,3,3,2,5,2,2,3,2,3,4,2,3,2,2,4
+R0041,Male,Managerial,Large (>500),Manufacturing,Europe,Full Deployment,10,3,4,4,3,5,3,5,2,3,4,3,4,4,4,3,3,3,2,3,3,4,2,3,1,1,3,3,2
+R0042,Female,Managerial,SME (<500),Technology,North Africa,Full Deployment,11,4,4,3,3,5,4,3,3,3,3,3,3,4,3,2,3,2,2,1,5,1,2,2,2,3,2,2,3
+R0043,Female,Operational,Large (>500),Manufacturing,Europe,Early Exploration,23,3,3,4,3,4,4,4,3,4,3,3,2,3,3,3,2,3,3,3,3,4,2,4,2,2,4,3,3
+R0044,Female,Operational,SME (<500),Technology,North Africa,Pilot,14,4,2,2,5,3,4,4,3,4,2,4,4,4,3,3,3,3,2,2,2,3,2,4,3,1,5,2,5
+R0045,Female,Managerial,SME (<500),Manufacturing,Gulf,Early Exploration,23,4,4,4,3,3,4,4,4,2,5,4,3,3,4,3,3,3,4,3,4,3,2,3,4,3,2,3,1
+R0046,Female,Operational,SME (<500),Financial Services,Europe,Full Deployment,4,2,4,3,4,3,2,3,4,4,4,4,2,3,2,2,2,2,3,3,3,3,2,2,2,3,1,2,2
+R0047,Male,Operational,SME (<500),Other,North Africa,Pilot,20,5,4,3,3,3,3,4,2,3,3,4,3,4,3,3,3,3,4,3,2,5,2,3,2,2,2,3,3
+R0048,Female,Managerial,Large (>500),Financial Services,Gulf,Early Exploration,25,4,3,4,4,4,3,5,3,3,4,2,3,5,4,2,3,3,4,3,2,2,3,3,3,2,3,4,4
+R0049,Male,Operational,SME (<500),Financial Services,North Africa,Early Exploration,19,4,4,4,4,4,4,5,3,2,4,4,3,4,3,3,3,4,3,4,2,4,3,2,3,2,2,2,4
+R0050,Male,Operational,Large (>500),Technology,North Africa,Full Deployment,10,3,2,3,4,3,3,3,3,2,3,3,5,3,3,4,3,3,2,4,2,3,4,2,2,3,3,1,3
+R0051,Female,Operational,SME (<500),Financial Services,North Africa,Early Exploration,25,4,3,3,4,3,4,3,3,3,4,3,4,5,2,2,2,3,4,4,3,3,3,1,3,2,1,1,4
+R0052,Female,Managerial,Large (>500),Financial Services,Europe,Pilot,12,3,4,4,4,3,3,4,2,3,3,1,2,3,3,4,3,2,3,2,1,2,1,2,4,3,2,2,5
+R0053,Male,Operational,Large (>500),Logistics,North Africa,Pilot,13,2,3,4,3,3,3,4,3,3,4,3,4,4,3,4,2,3,2,3,2,2,2,4,3,2,3,3,2
+R0054,Female,Managerial,Large (>500),Logistics,North Africa,Early Exploration,17,5,4,4,4,4,3,5,3,3,3,4,3,2,2,4,4,2,3,5,2,4,4,3,4,3,2,1,3
+R0055,Male,Managerial,Large (>500),Manufacturing,Gulf,Early Exploration,5,4,3,3,4,2,3,4,4,3,5,3,4,3,2,4,3,3,4,3,4,2,2,2,3,2,3,4,2
+R0056,Female,Managerial,SME (<500),Logistics,Europe,Pilot,10,4,3,4,4,3,3,4,4,3,4,2,3,3,3,4,4,3,4,3,3,4,4,2,2,1,2,1,2
+R0057,Female,Managerial,Large (>500),Other,North Africa,Early Exploration,24,3,5,5,4,4,3,3,3,4,3,3,2,2,3,3,3,4,4,2,2,3,2,3,3,3,2,3,3
+R0058,Female,Managerial,Large (>500),Logistics,Europe,Pilot,15,4,4,3,3,4,3,4,3,4,3,5,4,4,3,3,3,4,3,5,5,4,1,3,2,2,1,2,3
+R0059,Male,Operational,Large (>500),Manufacturing,Europe,Early Exploration,5,5,4,2,3,4,3,4,4,2,4,4,3,4,4,1,3,3,2,4,3,4,2,1,2,3,2,4,1
+R0060,Female,Operational,SME (<500),Manufacturing,Europe,Early Exploration,20,5,3,3,3,2,4,5,3,4,3,3,4,2,4,1,3,2,4,4,1,1,2,2,2,2,3,1,1
+R0061,Male,Managerial,Large (>500),Technology,North Africa,Pilot,23,3,4,5,4,3,3,4,4,4,3,4,3,4,4,3,1,4,2,3,2,3,3,2,3,2,2,1,4
+R0062,Male,Managerial,SME (<500),Manufacturing,Europe,Pilot,12,3,4,4,4,4,5,3,3,4,4,2,4,2,3,3,2,4,1,2,2,4,4,3,4,1,3,1,2
+R0063,Female,Managerial,Large (>500),Technology,Europe,Pilot,6,4,3,4,4,3,4,3,3,3,3,3,3,3,3,2,3,3,3,3,2,4,1,3,3,3,3,1,2
+R0064,Male,Operational,Large (>500),Manufacturing,North Africa,Pilot,20,4,5,3,5,5,5,4,3,3,4,2,4,3,3,4,2,2,5,5,3,3,2,4,2,2,2,4,2
+R0065,Male,Managerial,Large (>500),Manufacturing,Europe,Full Deployment,20,4,5,4,2,3,4,2,3,3,3,2,4,4,2,4,4,3,3,3,3,2,2,1,1,2,4,3,1
+R0066,Female,Operational,SME (<500),Logistics,Europe,Early Exploration,20,3,3,3,3,4,3,4,4,3,2,3,4,4,3,2,3,3,3,2,3,3,3,2,3,2,2,2,3
+R0067,Male,Managerial,Large (>500),Other,Gulf,Full Deployment,23,3,4,3,4,4,4,3,4,4,4,3,4,3,3,4,3,4,3,2,2,3,3,3,1,3,2,1,5
+R0068,Female,Operational,SME (<500),Financial Services,North Africa,Pilot,11,4,3,5,3,3,4,4,3,4,3,4,3,3,3,3,1,3,4,3,3,4,1,2,2,2,3,3,3
+R0069,Male,Managerial,SME (<500),Other,North Africa,Early Exploration,14,2,3,4,3,5,4,3,2,2,2,4,4,3,3,2,2,2,2,4,3,3,2,3,3,2,1,2,2
+R0070,Male,Operational,SME (<500),Other,Gulf,Early Exploration,6,4,4,4,4,4,4,4,3,3,4,4,4,3,3,3,2,2,4,4,4,2,1,4,5,2,3,3,3
+R0071,Male,Managerial,SME (<500),Financial Services,Europe,Early Exploration,23,3,4,3,3,3,3,3,3,3,2,4,3,4,3,2,4,3,5,2,3,2,2,2,2,3,1,3,1
+R0072,Male,Managerial,Large (>500),Manufacturing,Europe,Full Deployment,11,4,4,4,4,3,3,3,4,2,3,4,3,4,4,4,4,2,2,4,3,3,3,1,2,2,3,2,1
+R0073,Female,Managerial,Large (>500),Financial Services,North Africa,Full Deployment,10,4,4,4,3,4,3,3,3,3,4,4,3,3,2,2,3,2,4,3,2,3,2,2,4,4,3,4,4
+R0074,Female,Operational,SME (<500),Financial Services,Gulf,Full Deployment,8,4,2,3,3,3,3,4,3,2,3,2,3,4,3,3,2,4,3,2,2,3,3,2,3,3,2,3,3
+R0075,Male,Operational,SME (<500),Technology,Gulf,Full Deployment,14,3,4,4,3,4,3,5,3,3,2,2,4,3,4,2,3,2,3,3,5,2,4,1,2,2,4,3,3
+R0076,Male,Managerial,Large (>500),Financial Services,North Africa,Pilot,2,4,4,5,4,4,3,5,2,4,4,4,4,3,3,2,2,3,2,3,3,3,3,2,2,2,3,2,3
+R0077,Male,Managerial,SME (<500),Technology,Europe,Pilot,4,4,3,3,5,4,5,4,3,4,3,3,3,3,3,3,2,3,4,2,1,3,3,2,1,1,4,2,3
+R0078,Male,Managerial,Large (>500),Other,Gulf,Early Exploration,25,3,3,3,2,3,3,3,3,3,3,5,4,4,3,4,4,2,2,5,3,3,2,3,2,2,4,3,1
+R0079,Female,Managerial,Large (>500),Technology,North Africa,Full Deployment,3,5,3,3,4,3,2,3,4,3,3,4,4,5,4,3,3,2,4,3,2,2,2,1,3,3,3,3,2
+R0080,Female,Operational,Large (>500),Technology,Europe,Early Exploration,6,3,3,4,3,4,3,4,4,3,3,4,3,5,4,3,3,3,2,4,3,2,3,2,2,2,3,1,2
+R0081,Female,Managerial,Large (>500),Technology,Europe,Full Deployment,17,3,5,4,5,5,4,3,2,3,4,4,3,4,3,4,4,4,3,3,3,1,4,4,1,2,3,2,3
+R0082,Male,Operational,Large (>500),Logistics,North Africa,Early Exploration,17,5,4,4,3,4,3,4,3,2,3,3,3,3,4,2,4,3,3,4,3,5,2,3,3,3,3,3,2
+R0083,Male,Operational,Large (>500),Other,Europe,Early Exploration,6,3,3,3,3,3,3,3,5,4,3,4,3,3,4,3,3,3,2,4,4,3,3,1,4,1,3,3,2
+R0084,Male,Managerial,Large (>500),Manufacturing,Europe,Full Deployment,24,4,4,3,4,3,5,4,4,2,4,3,4,4,3,5,3,3,3,3,2,2,1,2,2,3,2,4,3
+R0085,Male,Managerial,Large (>500),Manufacturing,Europe,Full Deployment,16,5,4,3,4,3,4,3,4,4,3,3,4,3,3,2,2,4,2,4,3,2,3,3,2,4,2,3,3
+R0086,Male,Operational,SME (<500),Manufacturing,Gulf,Early Exploration,12,3,4,3,4,5,3,5,4,2,3,5,3,4,4,3,5,3,3,4,3,4,1,1,4,3,2,1,2
+R0087,Male,Managerial,SME (<500),Other,Gulf,Full Deployment,20,5,3,4,2,3,4,4,3,3,3,3,3,2,3,3,3,3,1,3,3,3,2,3,3,2,3,2,1
+R0088,Female,Operational,SME (<500),Manufacturing,Europe,Full Deployment,25,5,3,5,3,4,5,3,2,3,3,3,3,3,4,4,4,5,2,1,5,3,2,1,1,3,2,1,2
+R0089,Female,Operational,Large (>500),Financial Services,North Africa,Pilot,7,2,2,4,3,4,3,4,3,3,3,4,2,4,4,2,3,1,4,2,4,4,1,1,2,3,3,3,2
+R0090,Female,Operational,SME (<500),Technology,Europe,Pilot,7,4,3,5,4,4,4,5,3,3,3,3,3,3,3,2,5,2,4,4,2,3,2,3,3,1,2,3,2
+R0091,Female,Operational,SME (<500),Financial Services,Europe,Full Deployment,8,4,4,5,4,3,4,3,3,4,4,4,5,3,4,3,4,3,4,4,3,3,2,2,3,4,2,1,2
+R0092,Male,Operational,Large (>500),Logistics,North Africa,Full Deployment,14,5,3,2,4,4,3,3,3,3,3,5,3,4,3,1,4,1,4,2,2,3,5,3,2,2,3,2,3
+R0093,Male,Managerial,SME (<500),Technology,North Africa,Full Deployment,6,3,3,4,4,5,4,4,2,4,2,3,4,3,3,3,4,2,2,2,3,4,1,3,3,2,3,2,4
+R0094,Male,Operational,SME (<500),Technology,Europe,Full Deployment,11,4,4,4,3,3,4,4,4,4,2,3,2,4,3,3,4,2,3,4,1,3,3,3,1,2,3,4,2
+R0095,Male,Operational,SME (<500),Other,North Africa,Early Exploration,5,3,3,3,4,4,3,3,3,4,3,4,3,4,3,4,2,3,4,3,4,2,2,4,1,2,1,3,3
+R0096,Female,Managerial,SME (<500),Other,North Africa,Early Exploration,24,3,3,3,4,4,4,3,2,3,4,2,3,4,3,2,2,3,3,5,4,2,1,2,4,3,2,3,4
+R0097,Female,Operational,SME (<500),Financial Services,Gulf,Full Deployment,22,3,4,4,3,4,3,5,3,3,4,3,2,2,4,2,3,4,4,2,3,1,3,2,1,4,1,4,2
+R0098,Female,Operational,Large (>500),Manufacturing,North Africa,Pilot,13,4,4,4,3,4,3,4,3,4,3,4,3,3,4,3,3,3,4,1,2,2,3,2,1,1,3,3,4
+R0099,Female,Operational,SME (<500),Financial Services,Europe,Early Exploration,7,2,4,4,4,3,3,4,3,4,3,3,3,3,5,3,4,2,2,3,2,4,3,2,2,3,2,2,4
+R0100,Male,Operational,Large (>500),Manufacturing,North Africa,Pilot,8,4,5,4,3,4,5,4,4,3,3,3,2,3,4,3,2,3,3,4,4,3,3,2,3,2,4,3,4
+R0101,Female,Operational,SME (<500),Technology,Gulf,Early Exploration,10,3,3,2,4,3,4,3,5,2,3,4,2,4,3,2,3,1,2,3,2,3,3,3,3,1,2,4,2
+R0102,Female,Managerial,SME (<500),Financial Services,North Africa,Pilot,10,3,4,4,4,3,5,3,4,4,4,5,4,3,3,2,4,2,2,4,4,3,3,3,2,1,4,3,1
+R0103,Female,Managerial,Large (>500),Technology,Europe,Full Deployment,15,4,3,3,3,3,3,3,2,4,3,4,3,2,3,3,3,3,3,4,2,3,1,3,5,3,2,2,1
+R0104,Male,Managerial,SME (<500),Manufacturing,Gulf,Early Exploration,22,3,4,2,3,5,4,4,5,4,2,4,4,3,5,4,3,2,2,3,4,3,1,3,2,3,3,2,2
+R0105,Male,Managerial,Large (>500),Technology,Gulf,Early Exploration,22,3,4,4,5,4,3,4,4,2,4,3,3,3,2,4,4,3,4,4,1,3,4,2,2,3,3,2,1
+R0106,Female,Operational,Large (>500),Financial Services,Europe,Pilot,8,2,4,4,3,2,4,4,3,3,3,2,2,4,4,3,3,4,2,2,3,3,2,1,2,3,3,1,1
+R0107,Male,Operational,Large (>500),Manufacturing,North Africa,Pilot,11,3,4,3,4,4,3,3,2,3,2,3,3,3,3,2,4,4,3,4,3,3,2,3,3,1,3,2,2
+R0108,Male,Operational,Large (>500),Other,Europe,Full Deployment,14,4,4,4,5,4,4,4,5,3,3,3,3,4,3,4,2,4,2,2,3,3,1,2,4,3,2,5,2
+R0109,Male,Managerial,Large (>500),Manufacturing,Europe,Early Exploration,16,4,2,3,3,4,3,3,3,4,3,4,4,4,4,2,3,2,3,4,4,3,3,2,2,3,3,5,3
+R0110,Male,Operational,SME (<500),Technology,Gulf,Pilot,18,4,4,4,4,3,4,4,4,4,4,3,4,3,2,5,3,3,3,2,2,4,2,1,1,2,2,4,1
+R0111,Male,Operational,SME (<500),Technology,Gulf,Pilot,18,4,3,5,4,4,4,4,3,4,3,4,3,3,2,4,2,4,4,2,1,3,1,4,2,3,3,2,3
+R0112,Female,Managerial,SME (<500),Other,Europe,Early Exploration,9,4,3,3,4,3,4,4,3,3,3,3,3,4,3,2,3,2,2,3,5,2,4,3,3,3,4,3,1
+R0113,Male,Managerial,SME (<500),Manufacturing,Europe,Early Exploration,19,4,4,3,3,3,4,4,5,3,3,5,3,4,4,2,2,4,4,3,3,3,1,1,2,4,3,2,3
+R0114,Male,Operational,SME (<500),Financial Services,Gulf,Early Exploration,9,4,4,4,3,3,4,3,4,3,3,3,4,4,3,3,4,1,4,4,4,4,2,2,3,2,2,1,1
+R0115,Female,Managerial,SME (<500),Technology,Gulf,Full Deployment,2,4,3,4,3,4,3,4,3,4,3,3,3,2,4,1,2,4,4,4,3,4,3,5,2,2,1,3,3
+R0116,Female,Operational,SME (<500),Technology,Europe,Pilot,9,4,4,4,4,4,3,3,4,5,4,3,4,2,3,3,2,2,3,2,2,2,1,2,2,3,2,1,4
+R0117,Male,Operational,Large (>500),Other,Europe,Pilot,7,4,4,4,4,4,4,4,2,3,4,4,4,2,3,2,2,3,3,3,3,1,2,3,3,3,2,1,4
+R0118,Female,Operational,Large (>500),Financial Services,North Africa,Early Exploration,17,4,3,4,3,4,2,4,4,3,5,3,4,3,3,3,3,3,5,2,3,3,3,1,3,4,3,2,2
+R0119,Male,Managerial,Large (>500),Logistics,Gulf,Pilot,13,4,3,2,4,2,4,3,4,5,3,3,3,3,5,3,3,2,2,3,3,3,2,1,2,2,3,3,2
+R0120,Female,Managerial,SME (<500),Other,North Africa,Pilot,19,3,4,3,5,4,3,4,3,3,4,3,4,3,4,3,1,2,2,2,3,3,3,2,3,1,2,2,2
+R0121,Female,Managerial,Large (>500),Logistics,Gulf,Pilot,4,4,4,4,4,2,5,3,3,3,2,5,3,3,3,3,4,3,2,4,3,2,2,3,3,2,2,4,5
+R0122,Male,Operational,SME (<500),Logistics,Gulf,Full Deployment,18,5,4,4,3,3,3,3,3,4,3,4,3,3,3,3,4,2,3,3,3,2,2,1,2,2,3,2,3
+R0123,Female,Operational,SME (<500),Logistics,Gulf,Full Deployment,17,4,4,2,2,3,3,3,5,3,3,4,3,4,4,3,3,4,2,2,4,3,5,2,1,2,2,2,1
+R0124,Female,Managerial,Large (>500),Financial Services,Gulf,Pilot,6,4,3,5,4,4,4,5,2,4,3,3,5,4,3,3,3,3,2,2,4,4,3,1,3,3,3,3,1
+R0125,Male,Managerial,SME (<500),Manufacturing,Gulf,Full Deployment,2,3,3,4,4,4,3,4,4,4,3,4,4,2,4,2,4,2,3,4,3,3,1,3,1,3,2,3,1
+R0126,Male,Managerial,Large (>500),Logistics,North Africa,Full Deployment,22,3,4,4,3,3,3,3,4,5,4,2,4,3,4,2,4,4,3,3,3,4,1,3,4,2,2,3,2
+R0127,Male,Operational,Large (>500),Logistics,Gulf,Pilot,16,3,3,4,5,3,4,2,3,4,4,3,4,3,4,2,2,1,4,2,4,4,2,3,3,2,1,4,2
+R0128,Female,Managerial,Large (>500),Logistics,Europe,Full Deployment,4,4,3,5,4,1,3,4,4,5,4,3,4,3,3,4,4,3,3,2,4,4,2,4,1,2,2,4,2
+R0129,Male,Operational,SME (<500),Manufacturing,North Africa,Early Exploration,9,4,3,3,4,4,4,4,2,3,4,5,3,4,3,4,3,3,4,4,3,2,3,2,3,2,2,2,3
+R0130,Male,Managerial,SME (<500),Manufacturing,Gulf,Early Exploration,19,4,3,4,3,3,5,3,3,3,3,4,3,3,3,3,3,3,2,3,3,2,2,2,4,4,2,3,2
+R0131,Female,Managerial,SME (<500),Logistics,Europe,Early Exploration,17,4,5,4,4,5,4,3,3,4,3,4,3,3,3,3,2,1,4,3,3,3,1,2,2,2,3,2,3
+R0132,Female,Managerial,Large (>500),Logistics,North Africa,Full Deployment,7,4,3,3,4,4,3,3,2,4,4,3,4,3,3,4,3,4,3,4,4,4,3,2,4,2,2,4,1
+R0133,Female,Operational,SME (<500),Financial Services,North Africa,Full Deployment,17,3,3,3,3,3,3,3,4,4,3,4,3,3,3,3,2,1,3,1,3,4,2,2,3,2,3,4,2
+R0134,Female,Operational,Large (>500),Other,North Africa,Pilot,15,3,3,3,4,4,3,4,3,3,3,2,3,3,3,3,2,2,4,5,4,3,4,3,2,3,2,1,2
+R0135,Male,Operational,Large (>500),Other,North Africa,Early Exploration,3,3,2,4,4,3,4,4,4,4,4,2,3,2,3,3,1,2,2,3,2,4,3,1,2,2,1,1,1
+R0136,Male,Operational,SME (<500),Logistics,Gulf,Pilot,25,3,4,3,3,3,3,3,4,3,3,4,3,4,3,3,3,4,3,2,4,4,2,3,2,1,2,3,3
+R0137,Female,Managerial,SME (<500),Manufacturing,Gulf,Full Deployment,9,4,4,3,3,4,4,3,4,2,3,3,2,4,4,4,3,2,4,4,3,4,2,3,2,3,1,4,1
+R0138,Male,Managerial,SME (<500),Other,Europe,Pilot,19,3,3,3,3,3,2,5,3,3,3,2,4,4,4,1,3,2,3,2,3,2,1,2,3,1,3,1,1
+R0139,Female,Managerial,Large (>500),Manufacturing,North Africa,Pilot,23,4,3,3,3,3,4,3,3,3,5,2,2,3,4,4,3,3,4,3,1,3,3,4,2,4,1,4,3
+R0140,Female,Operational,SME (<500),Logistics,Europe,Pilot,8,4,3,3,3,3,3,5,3,3,3,4,3,3,4,3,4,3,4,3,3,2,1,3,2,3,3,3,2
+R0141,Male,Managerial,SME (<500),Logistics,Gulf,Early Exploration,4,4,4,2,4,4,4,3,3,3,4,3,4,3,3,4,3,3,2,4,2,3,2,2,2,4,4,2,2
+R0142,Male,Managerial,SME (<500),Financial Services,Gulf,Full Deployment,15,5,3,3,4,4,4,2,3,4,3,3,3,5,5,3,3,5,2,2,4,3,2,2,4,2,1,3,2
+R0143,Male,Operational,SME (<500),Manufacturing,Europe,Full Deployment,5,4,4,5,4,3,3,3,3,4,3,3,3,4,3,3,2,2,4,3,3,1,4,5,1,3,4,3,3
+R0144,Female,Operational,SME (<500),Manufacturing,North Africa,Full Deployment,15,3,4,4,3,3,4,4,2,2,3,4,3,2,4,5,4,2,3,3,2,2,2,3,3,2,3,3,2
+R0145,Male,Operational,Large (>500),Other,Europe,Pilot,22,3,4,5,4,5,3,4,4,3,4,2,3,4,4,3,4,4,2,3,2,4,3,2,3,1,4,1,2
+R0146,Male,Operational,Large (>500),Financial Services,North Africa,Early Exploration,23,4,3,4,5,4,4,3,2,3,4,5,2,5,3,4,3,1,3,2,2,3,4,1,3,2,2,3,2
+R0147,Female,Managerial,Large (>500),Financial Services,Europe,Early Exploration,13,5,4,3,2,3,5,4,4,4,4,3,3,2,3,3,4,1,2,4,3,2,3,3,3,2,2,3,4
+R0148,Male,Operational,SME (<500),Other,Europe,Early Exploration,8,3,3,3,3,4,4,3,2,4,3,3,3,1,3,3,3,2,2,2,2,3,4,2,1,3,2,2,2
+R0149,Female,Operational,SME (<500),Technology,North Africa,Pilot,19,4,3,3,3,4,4,3,4,3,3,3,4,2,3,3,2,4,1,2,3,3,3,3,3,4,1,1,3
+R0150,Female,Operational,SME (<500),Other,Gulf,Full Deployment,8,3,3,5,3,4,4,4,3,3,4,4,4,4,4,3,2,4,2,3,3,4,2,3,2,2,2,2,3
+R0151,Female,Managerial,SME (<500),Other,Europe,Pilot,18,4,4,2,4,3,4,4,3,4,3,4,3,4,4,3,3,3,3,4,1,2,4,4,3,2,2,3,1
+R0152,Female,Operational,Large (>500),Financial Services,North Africa,Pilot,19,3,4,4,4,4,4,3,3,4,4,3,4,3,3,3,3,2,2,2,3,2,3,3,3,2,3,1,2
+R0153,Male,Operational,SME (<500),Manufacturing,Europe,Early Exploration,23,4,3,5,3,3,3,4,2,4,4,3,2,2,4,4,4,3,4,4,5,2,4,2,3,3,3,1,3
+R0154,Male,Operational,Large (>500),Other,Europe,Pilot,24,4,3,3,3,3,3,3,4,1,3,3,4,4,2,3,2,3,2,3,4,5,3,1,2,2,2,1,2
+R0155,Female,Operational,SME (<500),Technology,Gulf,Full Deployment,23,4,3,3,4,3,3,4,2,4,3,4,3,4,4,2,4,3,4,2,4,4,2,3,2,3,2,3,3
+R0156,Male,Managerial,SME (<500),Technology,North Africa,Early Exploration,3,4,4,4,4,4,4,3,4,3,3,3,4,3,4,4,4,3,2,2,3,3,2,4,3,4,4,1,1
+R0157,Female,Managerial,Large (>500),Logistics,North Africa,Early Exploration,21,4,3,3,4,4,3,4,4,4,3,3,2,3,5,3,3,4,3,2,4,3,2,2,1,3,1,2,4
+R0158,Female,Managerial,SME (<500),Technology,Gulf,Early Exploration,19,4,3,4,4,4,3,3,3,3,3,5,3,3,4,4,2,3,2,4,3,3,3,4,2,2,2,3,3
+R0159,Male,Operational,Large (>500),Other,North Africa,Pilot,10,4,4,4,4,4,4,4,3,3,3,4,2,3,4,4,5,4,4,4,3,3,3,2,2,2,2,1,1
+R0160,Female,Managerial,Large (>500),Logistics,North Africa,Pilot,11,2,4,4,3,3,3,4,4,3,4,4,3,3,4,3,3,2,3,4,2,3,2,2,4,2,4,1,3
+R0161,Female,Managerial,SME (<500),Financial Services,North Africa,Early Exploration,2,3,2,4,4,4,4,4,4,3,4,5,4,3,2,4,3,3,2,3,3,2,1,1,1,4,2,2,4
+R0162,Female,Operational,SME (<500),Logistics,Gulf,Early Exploration,12,4,5,4,4,2,5,4,5,3,4,4,3,3,4,4,4,2,3,4,4,3,3,4,3,2,2,1,2
+R0163,Female,Managerial,SME (<500),Manufacturing,Europe,Early Exploration,12,4,3,2,3,3,4,4,2,4,2,5,3,4,3,1,2,2,4,2,4,3,2,1,2,3,3,3,1
+R0164,Female,Managerial,SME (<500),Financial Services,North Africa,Early Exploration,14,4,3,3,4,3,3,4,4,3,2,3,3,3,3,1,3,1,4,3,3,3,2,4,4,2,2,2,1
+R0165,Female,Managerial,Large (>500),Technology,Gulf,Full Deployment,17,3,3,4,4,4,3,4,4,3,5,3,3,2,3,4,4,3,2,3,2,4,1,2,2,4,2,4,4
+R0166,Female,Managerial,Large (>500),Manufacturing,Europe,Full Deployment,10,4,4,3,3,2,4,4,3,4,3,3,3,3,3,3,3,2,1,2,4,3,1,3,4,2,2,4,2
+R0167,Female,Managerial,SME (<500),Other,Europe,Early Exploration,11,4,4,4,4,3,4,3,4,3,3,4,2,3,4,3,2,4,3,4,4,4,3,2,3,2,4,2,2
+R0168,Female,Managerial,Large (>500),Technology,North Africa,Early Exploration,5,4,4,3,4,3,4,4,3,4,4,3,4,4,5,4,3,4,3,3,4,3,3,2,3,2,3,2,3
+R0169,Female,Operational,Large (>500),Technology,North Africa,Pilot,15,4,4,4,3,4,3,3,3,5,3,5,4,1,4,1,2,3,4,3,2,2,4,3,2,3,3,5,3
+R0170,Female,Operational,Large (>500),Logistics,Gulf,Pilot,17,4,3,4,4,5,4,3,3,4,4,4,5,4,3,3,4,2,2,4,3,4,4,3,4,1,1,4,2
+R0171,Male,Operational,Large (>500),Manufacturing,North Africa,Pilot,24,4,3,4,2,5,4,4,3,4,3,4,3,3,4,3,3,3,3,3,2,4,2,3,3,4,2,3,2
+R0172,Female,Operational,SME (<500),Manufacturing,Gulf,Early Exploration,15,4,4,3,4,3,4,3,2,3,3,2,2,5,3,3,3,4,2,5,4,2,5,3,3,2,1,3,2
+R0173,Female,Operational,SME (<500),Other,Europe,Pilot,13,3,4,4,4,5,4,4,3,3,4,3,2,2,3,2,3,2,3,4,2,3,2,2,3,3,2,2,5
+R0174,Female,Operational,Large (>500),Financial Services,Gulf,Early Exploration,23,4,3,5,5,3,3,3,4,3,2,4,3,1,4,2,3,5,3,3,1,3,2,4,2,1,2,2,4
+R0175,Female,Operational,SME (<500),Technology,Gulf,Pilot,3,4,4,3,4,4,3,4,4,3,3,4,5,3,4,2,3,3,3,2,3,2,4,4,2,2,3,3,2
+R0176,Male,Managerial,SME (<500),Manufacturing,North Africa,Pilot,16,4,3,4,3,5,4,3,5,4,3,4,3,3,3,3,4,5,1,5,4,3,2,1,4,1,3,2,1
+R0177,Female,Managerial,Large (>500),Logistics,North Africa,Early Exploration,17,5,4,4,3,3,3,4,3,3,5,4,3,2,2,2,3,3,2,3,3,3,2,2,1,1,2,2,2
+R0178,Female,Operational,Large (>500),Manufacturing,Europe,Early Exploration,3,4,4,3,3,4,4,3,2,4,4,3,3,4,4,3,2,3,4,2,4,3,2,2,2,2,2,3,3
+R0179,Male,Operational,SME (<500),Logistics,North Africa,Full Deployment,5,4,4,4,3,3,3,5,3,3,2,4,3,4,3,3,3,2,4,4,4,4,2,3,2,2,4,3,3
+R0180,Female,Managerial,SME (<500),Financial Services,Europe,Full Deployment,4,3,4,4,4,3,4,4,4,3,3,2,4,4,4,3,3,4,4,2,3,3,2,3,4,2,4,1,4
+R0181,Female,Managerial,Large (>500),Other,Europe,Early Exploration,8,3,2,4,5,5,4,5,3,4,3,3,3,3,3,4,1,2,3,2,4,3,3,1,2,2,3,2,2
+R0182,Male,Managerial,SME (<500),Manufacturing,North Africa,Early Exploration,25,3,5,3,4,3,5,4,4,4,3,3,3,4,3,4,3,3,3,3,4,3,2,5,1,5,3,2,4
+R0183,Male,Managerial,Large (>500),Logistics,Gulf,Pilot,10,4,2,3,3,4,2,3,4,5,3,3,3,3,3,2,3,3,3,3,1,3,2,3,4,2,3,1,1
+R0184,Male,Operational,Large (>500),Manufacturing,Gulf,Pilot,17,3,4,4,3,5,4,5,3,4,4,4,3,4,3,2,2,3,3,2,3,2,3,1,2,1,2,1,3
+R0185,Female,Managerial,SME (<500),Manufacturing,North Africa,Early Exploration,14,3,3,4,4,4,4,4,3,3,3,4,3,4,4,2,4,3,2,2,2,3,2,2,3,3,3,1,3
+R0186,Male,Operational,Large (>500),Logistics,Gulf,Full Deployment,12,3,4,3,3,4,4,3,4,3,3,3,3,3,4,4,2,4,2,3,3,4,2,3,4,4,3,3,3
+R0187,Female,Operational,SME (<500),Financial Services,North Africa,Full Deployment,22,4,3,3,5,3,4,4,4,3,3,4,3,3,3,2,3,4,1,3,4,4,1,4,1,2,2,3,3
+R0188,Female,Managerial,SME (<500),Logistics,North Africa,Pilot,4,3,3,4,4,4,4,4,4,3,4,4,3,1,4,1,4,3,4,4,3,3,4,2,2,2,1,4,3
+R0189,Male,Operational,Large (>500),Logistics,North Africa,Early Exploration,23,4,3,4,3,4,5,3,3,3,3,4,2,3,3,2,2,2,4,3,1,3,1,3,3,3,3,1,3
+R0190,Female,Operational,SME (<500),Technology,North Africa,Early Exploration,15,3,4,3,5,4,4,3,4,2,2,5,4,3,3,4,2,3,4,2,2,4,2,2,2,2,3,5,2
+R0191,Male,Operational,Large (>500),Financial Services,North Africa,Full Deployment,7,4,3,4,3,3,4,4,2,4,3,2,4,3,2,4,1,3,2,2,4,3,1,2,3,4,3,1,1
+R0192,Female,Managerial,SME (<500),Financial Services,Gulf,Pilot,12,3,3,4,5,4,3,4,4,2,4,2,4,4,4,2,2,3,3,2,4,2,4,2,2,4,3,2,2
+R0193,Female,Operational,Large (>500),Manufacturing,Gulf,Full Deployment,3,3,4,4,4,3,5,4,4,2,4,2,4,4,4,4,5,3,2,2,3,4,1,3,2,2,2,2,3
+R0194,Male,Operational,Large (>500),Other,North Africa,Full Deployment,13,3,3,4,4,5,2,3,4,3,4,3,3,3,3,4,2,2,4,2,2,3,1,4,2,1,4,2,2
+R0195,Female,Managerial,SME (<500),Financial Services,Gulf,Pilot,12,4,3,3,4,4,4,4,3,4,2,3,2,3,5,2,2,3,4,4,2,4,2,4,4,2,1,3,3
+R0196,Female,Managerial,Large (>500),Logistics,North Africa,Full Deployment,24,3,4,4,3,2,4,3,3,4,4,4,4,4,4,4,2,3,2,3,2,3,2,3,2,3,2,2,2
+R0197,Male,Managerial,SME (<500),Technology,North Africa,Pilot,20,4,3,4,4,3,4,3,3,3,4,3,4,3,3,5,2,4,2,4,4,3,2,3,1,1,2,3,3
+R0198,Female,Operational,Large (>500),Technology,Europe,Full Deployment,14,4,3,4,3,4,4,2,4,3,4,4,4,4,3,1,3,2,3,2,4,3,1,2,3,3,3,2,3
+R0199,Female,Operational,Large (>500),Manufacturing,North Africa,Pilot,4,4,3,4,4,5,3,3,3,4,3,4,3,3,4,2,2,3,4,4,3,4,3,3,3,2,3,3,2
+R0200,Male,Operational,SME (<500),Manufacturing,Europe,Full Deployment,7,5,5,4,5,4,4,4,3,3,3,2,4,3,2,2,4,2,2,4,3,3,2,3,3,3,1,3,3
+R0201,Male,Managerial,Large (>500),Logistics,Gulf,Early Exploration,8,5,4,4,4,5,5,4,3,3,3,3,4,3,5,2,3,4,4,2,3,2,2,2,1,3,3,1,2
+R0202,Male,Managerial,Large (>500),Other,Europe,Pilot,20,4,4,4,3,3,4,4,3,3,3,3,4,3,4,3,5,2,4,4,2,3,3,2,1,3,1,2,1
+R0203,Female,Managerial,SME (<500),Technology,Gulf,Pilot,6,4,4,2,4,4,3,4,4,4,3,3,4,4,5,1,3,3,3,3,4,1,3,3,1,3,1,4,1
+R0204,Female,Managerial,SME (<500),Logistics,Europe,Full Deployment,21,3,3,4,4,3,4,4,4,3,4,3,2,2,3,3,4,3,2,4,5,3,2,3,2,2,3,2,4
+R0205,Male,Operational,Large (>500),Financial Services,Gulf,Pilot,9,4,4,5,3,4,3,3,2,2,4,3,3,4,4,2,4,2,3,5,3,4,3,5,2,3,1,3,2
+R0206,Male,Operational,SME (<500),Technology,North Africa,Early Exploration,21,5,3,3,4,2,3,3,2,4,3,3,4,3,4,2,4,3,2,4,3,4,3,1,2,3,3,3,1
+R0207,Female,Operational,SME (<500),Other,Europe,Early Exploration,3,4,3,3,4,4,2,3,4,4,3,3,5,2,3,4,2,3,2,3,4,3,1,3,3,2,2,2,2
+R0208,Male,Operational,Large (>500),Financial Services,Gulf,Pilot,15,4,4,4,3,3,4,3,3,3,3,3,4,3,4,4,2,5,3,3,3,3,2,2,1,3,3,1,3
+R0209,Male,Managerial,SME (<500),Technology,Europe,Pilot,20,3,4,4,4,3,4,4,3,4,3,4,3,3,4,3,3,3,3,4,3,3,3,2,3,3,1,3,3
+R0210,Male,Operational,SME (<500),Financial Services,Gulf,Pilot,4,4,3,3,4,3,4,5,3,3,2,4,3,2,3,3,2,4,4,3,4,3,2,2,2,1,3,4,4
+R0211,Female,Managerial,SME (<500),Financial Services,Europe,Early Exploration,20,2,4,3,3,5,4,4,3,2,4,3,4,4,4,3,3,3,3,3,4,4,4,2,3,3,3,2,3
+R0212,Male,Operational,SME (<500),Technology,Europe,Full Deployment,9,4,3,2,4,3,4,4,4,3,4,3,4,4,3,4,3,3,4,3,2,3,3,2,2,3,2,4,2
+R0213,Male,Operational,Large (>500),Technology,North Africa,Early Exploration,11,3,3,5,4,4,4,3,1,4,3,4,3,4,4,3,3,2,1,2,1,3,2,1,2,4,1,1,1
+R0214,Male,Operational,Large (>500),Manufacturing,North Africa,Full Deployment,16,4,3,4,3,4,3,4,3,4,4,3,3,3,4,4,2,1,2,3,2,5,4,2,3,1,4,3,1
+R0215,Female,Operational,SME (<500),Financial Services,North Africa,Full Deployment,9,4,2,3,3,4,5,3,2,4,5,4,3,2,3,3,3,4,3,3,3,2,2,3,4,2,1,3,4
+R0216,Female,Managerial,SME (<500),Other,Europe,Early Exploration,25,4,3,3,2,3,3,4,4,2,4,2,2,5,4,1,4,3,4,2,3,3,1,3,3,2,3,3,2
+R0217,Female,Managerial,Large (>500),Logistics,Europe,Full Deployment,8,4,4,3,3,2,4,3,3,3,4,4,4,3,4,2,4,4,2,2,2,2,2,3,3,3,3,3,2
+R0218,Female,Managerial,SME (<500),Technology,North Africa,Early Exploration,22,3,4,4,4,4,3,3,3,4,2,3,3,3,4,3,3,2,2,4,3,3,2,4,3,1,1,3,2
+R0219,Male,Operational,SME (<500),Logistics,Gulf,Early Exploration,16,4,4,4,4,3,3,3,3,3,3,4,4,3,3,4,3,3,2,3,5,3,2,1,5,2,2,3,3
+R0220,Male,Operational,SME (<500),Other,Gulf,Pilot,21,3,4,5,4,4,3,4,3,3,3,4,4,4,2,3,2,2,4,3,3,2,3,3,3,1,1,1,4
+R0221,Female,Managerial,SME (<500),Financial Services,Europe,Pilot,25,4,5,4,4,4,4,5,4,4,4,4,3,4,4,2,4,3,4,3,2,2,3,4,4,3,3,1,2
+R0222,Male,Operational,Large (>500),Technology,Gulf,Early Exploration,8,4,3,4,4,3,3,4,4,3,3,3,2,4,2,3,4,4,2,2,4,4,4,1,2,3,2,1,2
+R0223,Female,Managerial,Large (>500),Financial Services,North Africa,Full Deployment,14,4,4,3,4,4,3,5,4,3,4,3,4,3,3,2,3,2,4,3,3,2,3,4,3,2,4,2,2
+R0224,Male,Managerial,Large (>500),Technology,Europe,Pilot,3,3,3,3,3,4,2,4,3,3,3,4,2,3,3,3,2,1,5,4,2,3,2,1,1,4,2,3,4
+R0225,Female,Operational,Large (>500),Other,Gulf,Early Exploration,16,3,3,4,3,4,5,3,3,2,4,3,4,5,5,5,3,3,2,2,4,2,3,2,2,4,3,3,2
+R0226,Male,Operational,SME (<500),Financial Services,North Africa,Full Deployment,19,3,4,3,5,3,3,4,4,4,5,3,3,4,5,2,3,3,4,2,3,4,3,3,2,3,2,1,3
+R0227,Male,Managerial,Large (>500),Financial Services,North Africa,Pilot,24,3,3,3,3,4,5,3,3,4,3,4,2,3,4,2,2,3,3,4,4,4,2,3,1,1,4,3,2
+R0228,Female,Operational,SME (<500),Logistics,Gulf,Full Deployment,24,3,3,4,3,4,3,3,3,4,3,3,3,1,3,1,2,3,3,3,2,2,3,1,2,4,3,2,2
+R0229,Male,Managerial,SME (<500),Technology,Europe,Pilot,5,4,3,3,3,3,4,3,2,3,4,3,4,4,3,3,3,3,2,3,3,3,3,3,4,3,2,2,3
+R0230,Female,Operational,SME (<500),Logistics,Europe,Early Exploration,2,4,4,4,4,4,3,4,3,5,3,3,3,4,3,4,2,3,3,1,3,2,4,1,1,2,3,3,3
+R0231,Male,Managerial,Large (>500),Logistics,Gulf,Pilot,2,3,4,5,4,3,3,4,4,3,4,4,3,1,3,3,2,4,3,4,3,2,1,2,2,1,1,2,4
+R0232,Male,Managerial,SME (<500),Technology,Gulf,Early Exploration,16,3,4,4,5,4,4,3,2,3,4,3,2,4,4,3,3,3,3,4,2,4,2,2,3,1,1,1,2
+R0233,Male,Managerial,Large (>500),Manufacturing,North Africa,Full Deployment,8,2,3,3,3,3,3,3,3,3,4,5,3,4,4,3,3,3,3,2,2,4,2,4,3,2,4,2,3
+R0234,Female,Operational,SME (<500),Other,North Africa,Early Exploration,8,3,5,5,4,3,4,3,4,3,2,4,2,4,3,4,2,4,2,4,4,3,4,2,3,2,2,3,3
+R0235,Female,Managerial,Large (>500),Technology,Gulf,Early Exploration,25,3,4,3,4,4,3,3,5,5,4,4,3,4,3,3,1,3,1,2,4,2,2,3,3,2,3,1,3
+R0236,Male,Managerial,Large (>500),Manufacturing,Gulf,Pilot,23,4,4,3,3,4,4,5,4,3,4,4,3,5,3,3,4,3,2,1,3,2,2,2,1,3,2,1,2
+R0237,Female,Operational,Large (>500),Logistics,Gulf,Pilot,2,5,4,4,4,3,3,3,2,4,4,3,3,4,5,1,3,3,3,4,4,3,4,1,3,1,1,3,3
+R0238,Male,Managerial,SME (<500),Technology,North Africa,Full Deployment,20,4,4,4,4,3,5,3,2,4,4,4,3,2,3,3,4,3,2,2,4,2,3,3,3,1,3,4,2
+R0239,Female,Managerial,SME (<500),Logistics,Gulf,Full Deployment,2,3,3,3,5,4,3,3,3,3,3,4,5,5,3,4,3,4,3,2,4,2,2,2,2,1,3,5,1
+R0240,Female,Operational,SME (<500),Other,Europe,Early Exploration,6,5,3,4,3,4,4,5,4,5,3,2,4,4,3,2,3,4,5,3,3,3,2,3,2,2,3,2,1
+R0241,Female,Managerial,SME (<500),Technology,Gulf,Pilot,9,5,3,3,3,3,4,4,3,3,3,4,2,3,4,3,3,3,1,3,2,2,4,4,2,3,2,1,2
+R0242,Male,Operational,SME (<500),Financial Services,Gulf,Early Exploration,21,3,3,5,4,3,5,3,4,3,3,3,5,4,2,4,3,2,3,3,5,2,2,3,3,3,2,3,2
+R0243,Female,Managerial,Large (>500),Financial Services,North Africa,Early Exploration,14,3,5,4,3,4,4,3,4,3,4,4,4,3,5,3,2,4,3,3,1,5,3,2,4,2,2,1,3
+R0244,Female,Managerial,Large (>500),Technology,North Africa,Early Exploration,20,5,4,4,3,5,4,4,4,3,4,4,3,3,3,2,3,3,2,4,4,3,4,3,4,3,1,2,2
+R0245,Male,Operational,SME (<500),Logistics,North Africa,Full Deployment,5,4,4,3,2,4,5,4,3,3,3,3,3,5,3,3,3,2,4,4,2,2,3,1,4,3,1,4,3
+R0246,Female,Managerial,Large (>500),Financial Services,Gulf,Early Exploration,7,4,4,4,4,3,3,4,4,3,3,4,4,4,3,4,3,3,3,5,2,3,4,3,3,2,4,4,2
+R0247,Female,Managerial,Large (>500),Financial Services,Europe,Full Deployment,6,3,5,5,3,4,4,4,4,4,4,2,4,3,4,3,4,3,2,4,4,4,2,3,3,2,1,2,2
+R0248,Female,Operational,SME (<500),Logistics,Europe,Early Exploration,9,4,4,4,4,5,4,3,4,3,5,3,3,2,5,3,3,3,3,3,2,3,1,1,2,3,2,1,1
+R0249,Female,Operational,SME (<500),Financial Services,North Africa,Early Exploration,23,4,3,3,3,3,4,4,3,4,4,3,4,4,4,4,3,3,4,3,2,4,2,2,2,1,3,4,1
+R0250,Male,Managerial,SME (<500),Logistics,North Africa,Full Deployment,22,5,4,4,3,5,4,3,3,5,2,3,4,3,3,1,3,4,2,2,4,4,2,2,1,2,2,2,1
+R0251,Female,Operational,Large (>500),Other,Europe,Full Deployment,4,3,4,3,4,3,4,4,3,3,2,4,2,3,4,3,3,2,2,5,2,4,2,4,1,4,1,3,2
+R0252,Male,Operational,SME (<500),Manufacturing,Europe,Full Deployment,13,4,3,3,4,3,4,3,3,4,4,4,4,3,4,3,4,4,4,4,4,3,2,2,3,1,4,3,3
+R0253,Female,Managerial,SME (<500),Logistics,Gulf,Pilot,3,4,4,3,4,4,4,2,3,3,3,4,2,2,3,3,2,3,3,3,3,1,2,3,4,1,5,2,1
+R0254,Male,Operational,SME (<500),Technology,North Africa,Full Deployment,21,4,4,4,5,5,2,4,5,4,4,4,2,3,3,4,3,2,2,3,3,5,2,1,3,3,3,2,3
+R0255,Female,Managerial,SME (<500),Logistics,North Africa,Full Deployment,18,3,4,4,4,5,3,4,5,3,3,3,3,3,4,2,2,3,4,3,3,2,1,3,2,1,4,2,1
+R0256,Male,Managerial,SME (<500),Financial Services,Gulf,Pilot,4,4,3,4,3,2,3,3,3,3,2,4,4,3,4,4,3,3,3,3,4,3,4,4,1,4,2,1,3
+R0257,Male,Managerial,SME (<500),Logistics,Gulf,Early Exploration,2,4,4,4,4,4,4,4,3,4,3,3,3,4,4,2,3,2,4,3,3,2,2,5,3,1,2,2,2
+R0258,Female,Operational,SME (<500),Other,Europe,Full Deployment,9,4,4,4,4,5,3,3,5,3,3,4,3,4,3,2,2,4,4,2,2,2,3,2,3,3,1,3,5
+R0259,Female,Operational,Large (>500),Other,Gulf,Early Exploration,5,3,3,4,3,3,3,4,4,3,4,2,2,3,4,3,2,4,4,2,3,3,2,1,2,3,3,2,4
+R0260,Male,Managerial,Large (>500),Financial Services,Europe,Pilot,9,3,4,3,4,4,4,4,3,3,4,5,3,4,3,3,2,4,2,3,3,3,1,3,1,3,3,3,1
+R0261,Female,Operational,SME (<500),Logistics,Europe,Full Deployment,3,3,3,3,4,4,4,5,4,3,3,3,4,3,4,2,5,2,2,2,1,1,3,3,5,2,3,2,3
+R0262,Female,Managerial,Large (>500),Financial Services,North Africa,Early Exploration,12,3,3,4,4,3,5,3,4,4,3,5,3,3,3,5,3,4,4,3,4,3,1,2,3,1,1,2,3
+R0263,Female,Managerial,SME (<500),Manufacturing,North Africa,Pilot,15,2,4,3,3,5,5,4,3,3,3,2,3,3,4,3,2,3,1,3,3,3,3,3,2,2,3,4,4
+R0264,Male,Managerial,SME (<500),Logistics,Europe,Early Exploration,15,4,5,4,4,5,3,4,3,4,3,3,2,5,4,3,3,3,3,4,3,3,2,3,4,2,1,2,3
+R0265,Male,Operational,Large (>500),Manufacturing,Europe,Full Deployment,3,4,4,4,3,5,4,3,2,2,3,4,3,3,3,4,5,1,3,3,3,2,2,3,4,1,2,3,1
+R0266,Male,Operational,SME (<500),Financial Services,Europe,Pilot,22,3,4,4,4,4,3,4,4,4,4,5,3,4,4,4,3,4,3,5,4,3,2,3,3,4,2,4,2
+R0267,Male,Operational,SME (<500),Financial Services,Gulf,Early Exploration,5,3,5,3,4,4,3,4,3,4,3,4,4,4,4,4,3,3,4,4,4,4,2,4,2,1,2,2,3
+R0268,Male,Operational,SME (<500),Technology,Gulf,Early Exploration,14,4,5,2,3,2,3,4,3,3,3,4,2,4,3,2,3,3,3,2,3,4,3,1,3,4,2,1,3
+R0269,Female,Operational,Large (>500),Manufacturing,North Africa,Pilot,15,5,2,4,4,5,2,3,4,3,3,4,3,3,3,3,2,3,3,3,2,3,3,3,3,2,3,1,3
+R0270,Male,Managerial,Large (>500),Financial Services,Gulf,Full Deployment,14,4,3,3,4,4,4,3,3,3,4,4,4,3,3,4,3,1,4,2,4,3,3,4,1,2,2,2,2
+R0271,Female,Operational,SME (<500),Technology,North Africa,Early Exploration,16,4,3,3,3,4,3,4,3,3,3,3,4,2,4,4,4,2,4,3,3,3,1,4,3,2,2,5,2
+R0272,Male,Managerial,Large (>500),Logistics,Europe,Pilot,12,5,5,3,4,4,4,4,3,2,4,4,4,4,3,2,3,2,3,5,2,3,2,3,2,3,2,3,1
+R0273,Male,Operational,SME (<500),Manufacturing,North Africa,Early Exploration,15,2,3,4,4,3,4,3,3,2,4,3,3,3,4,4,2,5,3,4,4,2,2,1,2,3,2,1,3
+R0274,Female,Operational,SME (<500),Financial Services,Europe,Pilot,19,3,4,3,4,5,3,3,4,3,2,4,3,3,4,3,2,4,2,2,3,4,2,3,3,1,4,3,1
+R0275,Male,Managerial,SME (<500),Financial Services,Gulf,Pilot,8,3,3,5,4,2,4,3,4,3,4,4,4,3,3,4,4,2,4,4,2,3,3,3,3,4,3,3,4
+R0276,Female,Operational,Large (>500),Financial Services,North Africa,Early Exploration,22,4,3,3,3,4,5,3,2,3,4,4,3,3,3,5,3,4,4,3,3,3,3,4,3,3,2,4,3
+R0277,Male,Managerial,SME (<500),Technology,Europe,Early Exploration,15,3,4,5,3,4,4,4,4,3,3,5,3,2,3,2,3,3,1,3,3,4,3,4,4,3,3,2,3
+R0278,Female,Operational,SME (<500),Logistics,Europe,Full Deployment,13,3,3,2,4,2,4,4,3,4,5,3,2,4,4,2,3,3,4,2,3,2,2,2,3,2,3,1,4
+R0279,Female,Operational,Large (>500),Technology,Gulf,Pilot,20,3,4,5,2,3,3,5,4,3,4,3,4,3,4,3,3,2,2,3,4,3,3,3,3,3,3,1,2
+R0280,Female,Operational,SME (<500),Manufacturing,North Africa,Full Deployment,8,4,4,4,4,4,4,3,3,3,4,5,4,3,3,2,3,3,3,2,3,3,3,1,3,2,3,2,3
+R0281,Female,Operational,SME (<500),Other,Europe,Pilot,11,3,3,5,2,4,4,3,3,3,3,4,4,3,3,3,3,4,2,5,1,5,2,2,4,4,4,3,3
+R0282,Male,Operational,Large (>500),Financial Services,Gulf,Pilot,5,5,5,4,2,4,3,3,3,2,3,2,2,3,4,3,4,3,3,1,2,2,1,3,3,3,2,3,3
+R0283,Male,Managerial,SME (<500),Technology,North Africa,Full Deployment,20,4,3,3,5,3,3,4,3,4,5,3,4,3,3,3,3,2,4,4,3,4,3,3,3,3,3,2,4
+R0284,Male,Operational,SME (<500),Technology,Gulf,Full Deployment,13,3,4,3,4,4,4,4,4,3,3,3,4,3,3,2,3,2,2,4,3,3,3,2,3,3,3,1,1
+R0285,Male,Operational,Large (>500),Financial Services,Gulf,Early Exploration,10,3,4,4,5,3,3,4,3,4,3,3,2,3,3,3,2,2,4,4,3,3,3,4,2,3,4,3,3
+R0286,Male,Managerial,SME (<500),Financial Services,North Africa,Full Deployment,3,4,3,5,4,3,4,4,4,3,4,2,4,4,3,2,3,4,3,2,1,3,1,3,2,4,3,2,2
+R0287,Male,Managerial,Large (>500),Manufacturing,North Africa,Full Deployment,9,3,3,3,4,5,4,3,4,3,4,2,3,5,3,4,5,2,4,1,2,3,3,1,2,3,2,3,1
+R0288,Male,Operational,Large (>500),Technology,North Africa,Early Exploration,6,3,4,5,3,3,3,3,5,4,3,3,4,4,4,2,3,4,3,2,3,4,1,3,2,3,3,3,2
+R0289,Female,Operational,Large (>500),Technology,North Africa,Pilot,9,4,3,2,4,4,4,3,4,2,3,3,4,3,3,4,4,3,3,2,2,2,2,3,2,3,3,2,4
+R0290,Male,Operational,SME (<500),Logistics,North Africa,Pilot,15,2,4,5,4,4,4,5,3,3,3,2,2,4,3,3,3,2,2,3,2,3,2,2,5,3,3,3,1
+R0291,Male,Managerial,Large (>500),Other,Gulf,Early Exploration,25,3,3,3,4,4,4,4,3,4,4,3,2,4,2,3,3,4,4,2,3,3,3,2,2,3,2,2,3
+R0292,Female,Operational,SME (<500),Other,Europe,Pilot,6,3,3,4,3,4,5,3,3,3,4,4,3,3,3,3,3,2,3,4,3,3,2,2,4,3,2,4,3
+R0293,Female,Operational,SME (<500),Manufacturing,Europe,Full Deployment,13,2,4,4,5,3,3,4,4,3,3,2,4,4,4,2,1,4,4,1,3,2,2,2,1,2,2,2,1
+R0294,Male,Operational,Large (>500),Technology,Europe,Early Exploration,7,4,5,3,4,3,4,4,2,3,3,4,3,2,5,3,3,3,3,3,2,2,3,3,3,3,3,3,3
+R0295,Female,Managerial,SME (<500),Logistics,North Africa,Early Exploration,11,4,5,3,4,4,3,5,4,4,3,3,3,4,2,3,2,2,1,3,2,3,3,3,1,1,4,3,1
+R0296,Male,Operational,SME (<500),Technology,Gulf,Full Deployment,6,4,3,4,4,3,3,4,5,4,3,3,3,5,2,4,3,4,1,2,3,4,3,3,3,3,2,3,3
+R0297,Male,Managerial,SME (<500),Technology,Europe,Full Deployment,19,4,3,4,2,4,4,4,2,2,2,4,3,4,4,3,1,4,2,4,4,4,3,3,3,1,3,3,2
+R0298,Female,Managerial,Large (>500),Other,Gulf,Pilot,23,4,4,3,4,3,4,3,2,4,4,2,2,3,4,3,3,3,3,2,4,3,1,4,3,3,2,3,3
+R0299,Male,Managerial,SME (<500),Technology,North Africa,Pilot,21,3,3,3,5,3,4,4,4,3,3,3,3,4,3,2,1,3,2,2,2,3,4,2,2,4,2,2,2
+R0300,Female,Managerial,Large (>500),Manufacturing,Gulf,Early Exploration,8,4,4,4,3,4,4,4,2,5,4,3,4,3,5,5,4,3,3,2,4,3,3,2,1,2,2,3,1
+R0301,Male,Operational,Large (>500),Technology,North Africa,Early Exploration,21,3,4,3,3,4,4,3,4,3,2,4,3,3,3,2,3,2,4,3,3,4,3,3,2,2,4,2,3
+R0302,Male,Operational,SME (<500),Manufacturing,Gulf,Early Exploration,2,4,4,3,4,4,4,3,4,4,3,4,3,5,4,3,4,3,3,4,4,3,4,3,3,3,3,3,3
+R0303,Female,Managerial,SME (<500),Other,North Africa,Full Deployment,19,4,3,4,3,4,5,4,3,3,2,3,4,3,4,3,4,2,4,2,4,3,2,2,4,2,3,2,2
+R0304,Male,Managerial,Large (>500),Manufacturing,Europe,Pilot,6,4,4,3,3,2,4,3,3,3,4,3,3,3,3,3,3,5,4,3,4,2,2,1,3,3,2,3,3
+R0305,Male,Operational,SME (<500),Financial Services,Gulf,Pilot,9,3,5,4,4,3,5,3,3,4,3,4,4,4,4,2,3,3,2,4,1,4,2,4,2,2,1,3,2
+R0306,Female,Managerial,SME (<500),Logistics,Gulf,Full Deployment,20,2,4,4,4,3,4,3,4,3,3,5,4,3,3,3,3,2,3,2,4,4,4,3,3,2,4,2,4
+R0307,Female,Managerial,Large (>500),Manufacturing,North Africa,Pilot,22,2,4,3,4,4,4,4,2,4,3,4,3,3,4,2,4,2,3,3,3,3,3,1,2,1,2,2,3
+R0308,Male,Managerial,Large (>500),Technology,Gulf,Early Exploration,8,3,4,4,3,3,4,3,4,3,4,4,3,3,3,3,4,4,4,2,3,3,2,3,2,3,3,3,2
+R0309,Male,Operational,SME (<500),Other,Europe,Pilot,11,5,3,4,3,4,3,4,4,3,4,5,3,3,3,3,3,2,4,3,2,4,3,3,2,4,3,2,2
+R0310,Female,Managerial,Large (>500),Financial Services,Gulf,Pilot,9,3,3,4,5,4,3,4,5,5,3,3,3,4,4,3,3,2,3,2,4,2,2,2,2,2,3,2,4
+R0311,Male,Operational,SME (<500),Manufacturing,Europe,Full Deployment,5,5,3,4,3,3,4,3,4,4,3,3,4,4,4,4,1,2,2,4,3,3,4,1,3,2,4,1,3
+R0312,Male,Operational,SME (<500),Technology,North Africa,Pilot,25,4,5,4,4,4,5,2,3,5,5,3,3,2,3,4,3,3,2,2,4,3,3,3,4,4,2,1,3
+R0313,Male,Managerial,SME (<500),Manufacturing,North Africa,Full Deployment,19,3,2,4,4,4,4,3,4,4,4,4,5,3,4,4,4,3,3,3,2,3,3,2,1,2,3,3,1
+R0314,Female,Managerial,SME (<500),Financial Services,Gulf,Pilot,12,3,4,3,4,5,5,3,3,3,4,3,4,3,4,2,3,4,3,4,2,3,1,2,2,3,1,2,3
+R0315,Male,Operational,Large (>500),Technology,Europe,Early Exploration,7,4,5,3,3,3,4,2,3,3,3,3,3,3,2,4,3,1,2,3,4,2,2,1,2,3,4,1,3
+R0316,Female,Managerial,SME (<500),Technology,North Africa,Full Deployment,2,4,5,4,4,4,4,3,4,4,3,3,2,3,4,2,3,4,2,2,3,2,3,3,3,3,4,2,1
+R0317,Male,Operational,SME (<500),Financial Services,North Africa,Early Exploration,25,5,4,4,5,3,4,4,4,3,3,3,3,4,4,4,4,3,3,2,2,3,3,3,3,3,2,2,2
+R0318,Male,Operational,Large (>500),Technology,Gulf,Full Deployment,5,4,3,4,4,4,3,4,3,4,2,3,5,4,3,2,3,3,1,4,4,3,3,3,2,3,2,1,2
+R0319,Male,Operational,SME (<500),Other,Europe,Full Deployment,19,3,4,3,3,4,3,4,4,3,4,3,3,4,4,2,3,3,3,4,2,4,4,3,1,2,3,1,1
+R0320,Female,Operational,SME (<500),Financial Services,Gulf,Full Deployment,8,3,4,4,4,4,4,4,5,3,3,3,4,4,4,3,4,5,3,4,1,4,2,1,3,4,1,3,2
+R0321,Female,Managerial,Large (>500),Financial Services,Europe,Pilot,5,5,4,4,4,2,3,4,4,5,4,4,3,3,2,1,2,1,3,2,4,3,2,3,1,2,2,2,3
+R0322,Female,Operational,Large (>500),Technology,North Africa,Pilot,19,3,4,3,3,3,3,4,4,3,3,2,2,4,2,3,4,4,4,3,5,2,1,3,4,3,3,2,2
+R0323,Female,Operational,SME (<500),Financial Services,Europe,Pilot,8,4,4,3,3,3,4,3,4,2,4,3,3,4,3,2,3,3,2,4,1,3,4,1,2,3,2,3,2
+R0324,Male,Operational,Large (>500),Technology,Gulf,Early Exploration,22,4,4,3,3,3,4,5,4,2,2,4,3,3,4,5,4,3,4,3,3,3,1,2,2,1,4,2,3
+R0325,Male,Operational,SME (<500),Manufacturing,Europe,Full Deployment,18,4,4,4,5,3,3,4,4,2,3,2,3,3,3,2,2,3,3,3,2,2,3,1,3,3,3,2,3
+R0326,Female,Operational,Large (>500),Financial Services,Europe,Early Exploration,19,4,3,3,4,3,4,3,2,3,2,3,2,4,4,3,2,3,1,4,2,2,3,3,3,2,1,3,4
+R0327,Female,Operational,SME (<500),Manufacturing,Gulf,Full Deployment,21,3,3,4,4,3,4,4,4,3,4,4,4,3,3,3,5,3,4,2,3,3,2,2,1,1,3,3,3
+R0328,Male,Operational,Large (>500),Logistics,Gulf,Early Exploration,14,3,4,3,4,5,4,4,3,4,2,4,2,4,4,2,4,3,3,5,3,3,2,1,2,3,2,2,3
+R0329,Male,Operational,SME (<500),Technology,Gulf,Early Exploration,13,4,4,3,5,3,4,4,3,3,4,3,3,5,4,3,3,4,4,2,2,3,5,2,2,3,1,2,1
+R0330,Male,Managerial,Large (>500),Manufacturing,North Africa,Full Deployment,6,3,3,4,3,3,4,3,4,3,4,4,4,3,2,5,4,4,3,1,2,2,2,3,1,4,3,3,5
+R0331,Male,Managerial,SME (<500),Other,Gulf,Full Deployment,21,3,4,4,4,4,5,3,3,2,4,3,3,4,5,3,4,3,2,2,3,2,2,1,3,2,3,3,2
+R0332,Male,Managerial,Large (>500),Logistics,North Africa,Pilot,3,3,3,4,4,4,4,4,2,3,5,3,4,4,4,2,2,2,4,3,2,3,1,2,3,1,4,3,3
+R0333,Female,Managerial,SME (<500),Financial Services,Europe,Early Exploration,14,3,3,4,5,3,5,3,3,3,2,3,3,3,3,2,4,2,5,4,4,3,3,3,1,2,1,3,3
+R0334,Male,Operational,SME (<500),Financial Services,Gulf,Full Deployment,21,4,5,3,4,3,3,5,4,4,4,3,2,4,4,3,2,2,3,4,2,3,2,1,3,3,3,3,3
+R0335,Male,Operational,Large (>500),Other,North Africa,Full Deployment,7,4,3,4,4,3,5,4,4,3,3,4,4,5,2,3,3,2,3,3,2,3,1,2,2,1,3,2,3
+R0336,Female,Operational,SME (<500),Other,Gulf,Early Exploration,16,3,4,4,4,4,3,4,4,3,4,4,3,3,4,3,3,4,2,3,4,3,3,3,1,1,2,2,2
+R0337,Male,Managerial,Large (>500),Manufacturing,Gulf,Pilot,24,3,5,4,4,3,4,3,5,3,3,3,4,3,3,3,4,2,3,3,1,4,2,2,2,2,3,3,2
+R0338,Male,Operational,SME (<500),Financial Services,Gulf,Pilot,7,3,4,3,3,4,4,4,4,3,3,4,4,2,3,4,3,4,1,4,2,3,3,1,1,2,2,4,2
+R0339,Female,Managerial,SME (<500),Other,Gulf,Full Deployment,9,4,5,3,3,4,5,3,3,3,3,4,4,3,3,4,2,4,3,2,2,2,3,3,2,2,2,3,3
+R0340,Female,Managerial,Large (>500),Other,North Africa,Pilot,20,4,4,5,3,3,4,3,3,3,1,3,4,3,4,2,4,3,4,3,4,2,4,1,2,4,3,3,3
+R0341,Male,Operational,Large (>500),Financial Services,Europe,Pilot,23,3,5,3,4,3,4,4,2,4,4,3,4,4,4,2,2,3,3,3,1,4,1,4,4,4,2,3,1
+R0342,Male,Managerial,SME (<500),Logistics,North Africa,Pilot,6,3,5,4,3,3,4,4,3,4,3,2,4,4,4,3,5,3,4,3,5,4,3,2,3,2,1,2,2
+R0343,Male,Managerial,Large (>500),Financial Services,Europe,Pilot,25,3,4,2,4,5,4,3,2,3,3,3,3,4,4,3,4,3,3,4,4,2,4,2,3,3,3,3,3
+R0344,Female,Operational,SME (<500),Other,Gulf,Pilot,24,5,4,5,4,3,3,5,2,2,4,4,4,3,4,2,2,3,4,3,3,2,3,2,2,1,2,2,2
+R0345,Male,Managerial,SME (<500),Other,North Africa,Pilot,20,3,4,4,4,3,4,4,4,4,3,2,4,3,4,2,1,1,3,3,3,3,3,2,2,3,1,4,2
+R0346,Male,Operational,Large (>500),Other,North Africa,Full Deployment,2,4,4,4,4,3,3,3,4,3,2,2,5,4,3,3,2,3,3,2,2,3,1,3,2,2,3,3,3
+R0347,Male,Operational,Large (>500),Financial Services,North Africa,Full Deployment,6,5,2,5,5,5,4,4,3,4,4,4,5,3,3,4,3,2,2,3,3,4,2,1,5,2,3,3,3
+R0348,Male,Operational,Large (>500),Logistics,Europe,Full Deployment,14,4,3,4,3,5,3,2,4,2,5,4,4,3,4,4,3,2,2,3,3,2,2,3,4,2,2,3,1
+R0349,Male,Operational,SME (<500),Financial Services,North Africa,Full Deployment,7,5,3,4,2,4,5,4,4,3,3,2,2,3,4,3,2,3,3,4,1,4,3,2,2,3,3,3,2
+R0350,Female,Managerial,SME (<500),Logistics,North Africa,Early Exploration,16,4,4,3,3,2,4,4,4,3,4,3,3,3,2,3,4,4,4,3,3,4,3,3,2,3,3,2,2
+R0351,Male,Operational,Large (>500),Manufacturing,North Africa,Pilot,23,4,4,4,3,4,3,4,1,4,3,4,3,3,3,1,3,4,5,4,3,4,2,2,3,2,1,2,2
+R0352,Female,Operational,SME (<500),Logistics,Gulf,Pilot,23,5,4,4,3,4,3,4,4,5,4,4,3,3,3,2,4,1,2,5,2,4,4,3,2,3,4,3,2
+R0353,Male,Managerial,Large (>500),Other,North Africa,Early Exploration,9,3,1,4,4,3,3,4,3,4,3,2,3,3,4,5,4,2,3,2,3,2,3,2,2,4,3,2,2
+R0354,Female,Managerial,SME (<500),Financial Services,Europe,Pilot,7,4,2,4,3,4,3,3,4,4,3,4,3,4,3,3,1,3,4,2,2,3,2,2,3,2,2,2,2
+R0355,Female,Operational,Large (>500),Technology,Gulf,Pilot,10,4,4,4,3,3,3,4,4,4,3,3,4,4,4,5,2,3,5,2,3,3,3,4,3,3,1,4,2
+R0356,Male,Operational,SME (<500),Manufacturing,Europe,Full Deployment,5,3,3,3,3,3,4,5,3,2,3,2,3,4,3,3,3,4,2,3,3,4,2,1,2,1,1,2,2
+R0357,Male,Operational,Large (>500),Logistics,Gulf,Early Exploration,15,4,3,3,4,4,4,5,3,3,2,3,5,2,5,3,4,4,3,4,3,3,2,3,1,2,3,1,4
+R0358,Male,Managerial,SME (<500),Manufacturing,Gulf,Early Exploration,25,4,2,3,4,4,3,3,4,3,2,4,5,3,3,2,3,3,3,3,3,3,3,2,2,2,2,2,2
+R0359,Female,Managerial,SME (<500),Manufacturing,Europe,Early Exploration,12,3,3,4,3,5,3,4,3,3,3,4,3,4,4,3,2,1,3,4,3,3,4,2,3,2,3,1,1
+R0360,Male,Managerial,SME (<500),Financial Services,Gulf,Early Exploration,14,3,3,5,3,3,2,4,3,2,5,4,3,2,5,4,4,4,3,2,3,4,2,1,2,2,4,1,2
+R0361,Female,Operational,SME (<500),Other,Europe,Pilot,21,3,4,5,5,4,4,3,2,2,4,4,4,4,3,3,5,4,3,2,4,4,3,2,2,2,2,3,4
+R0362,Male,Managerial,SME (<500),Technology,Gulf,Full Deployment,24,4,3,4,3,4,4,4,4,5,3,5,3,5,4,3,2,4,3,2,2,3,2,1,3,3,3,3,3
+R0363,Male,Operational,Large (>500),Financial Services,North Africa,Pilot,8,4,5,3,3,4,3,5,3,4,3,3,4,4,3,4,3,5,3,1,2,3,2,2,2,3,3,4,1
+R0364,Male,Managerial,SME (<500),Financial Services,Gulf,Full Deployment,16,4,4,2,3,5,3,3,4,3,4,2,3,2,3,5,3,5,2,2,3,2,3,2,2,2,3,3,2
+R0365,Male,Managerial,SME (<500),Technology,North Africa,Early Exploration,24,4,3,4,3,3,2,3,3,2,3,3,3,4,4,3,4,2,3,2,3,2,3,2,3,3,2,2,2
+R0366,Female,Managerial,Large (>500),Manufacturing,Gulf,Early Exploration,20,3,3,4,3,4,4,4,5,5,4,4,3,3,3,2,4,3,3,5,2,3,2,3,3,2,2,3,2
+R0367,Female,Operational,Large (>500),Financial Services,Gulf,Pilot,7,5,4,3,5,4,4,4,4,4,3,2,3,3,3,4,2,3,4,2,3,3,4,3,1,1,2,1,3
+R0368,Male,Managerial,Large (>500),Technology,Gulf,Full Deployment,5,4,5,4,4,4,5,5,3,3,3,3,5,3,5,1,4,3,3,3,2,3,2,2,3,3,3,4,3
+R0369,Female,Managerial,SME (<500),Other,North Africa,Pilot,25,4,4,5,4,4,3,4,4,2,3,2,5,4,3,3,4,3,3,3,3,3,3,2,2,3,2,2,4
+R0370,Female,Managerial,SME (<500),Technology,Europe,Early Exploration,4,3,4,3,3,4,3,4,4,3,4,2,3,3,3,3,4,3,3,2,1,4,2,2,4,1,3,2,1
+R0371,Male,Operational,SME (<500),Financial Services,North Africa,Early Exploration,13,4,4,3,2,3,4,4,4,3,4,4,4,4,2,3,3,2,2,1,4,2,3,3,2,2,4,3,3
+R0372,Female,Managerial,Large (>500),Other,Europe,Early Exploration,23,4,3,2,4,4,3,3,4,2,4,2,4,5,3,2,3,2,5,2,1,1,3,3,3,2,2,4,2
+R0373,Female,Operational,Large (>500),Financial Services,North Africa,Pilot,16,4,5,4,3,3,3,3,3,4,3,4,3,5,3,3,3,4,3,3,1,3,3,2,2,3,2,2,3
+R0374,Male,Managerial,Large (>500),Financial Services,Europe,Pilot,5,3,3,4,4,2,4,3,2,4,3,4,4,3,3,2,4,3,3,2,1,4,2,3,4,5,2,1,2
+R0375,Female,Operational,Large (>500),Financial Services,Europe,Early Exploration,11,3,2,5,5,4,4,3,3,4,2,2,5,2,3,1,1,2,3,1,3,3,2,2,3,2,1,2,5
+R0376,Male,Managerial,SME (<500),Logistics,Gulf,Full Deployment,12,3,4,5,3,4,3,3,4,3,4,3,2,3,5,4,2,2,3,4,2,2,2,2,5,3,2,2,2
+R0377,Female,Managerial,Large (>500),Technology,Europe,Full Deployment,7,3,4,4,2,4,4,5,3,4,3,4,4,4,3,4,2,3,3,3,2,3,2,4,4,4,3,2,3
+R0378,Female,Operational,SME (<500),Other,Europe,Pilot,8,3,3,3,3,4,3,4,3,3,3,4,3,4,3,3,3,3,2,4,2,3,3,3,2,1,3,3,3
+R0379,Male,Managerial,Large (>500),Manufacturing,North Africa,Full Deployment,4,4,4,4,3,4,3,3,2,1,4,3,3,4,2,3,2,4,3,3,2,2,4,2,3,1,3,2,2
+R0380,Female,Managerial,SME (<500),Logistics,North Africa,Pilot,12,5,3,4,3,4,3,4,4,3,3,4,4,4,3,3,3,3,2,3,4,3,3,2,3,2,3,2,3
+R0381,Male,Managerial,Large (>500),Logistics,Gulf,Early Exploration,17,2,4,5,5,5,4,4,4,3,3,4,5,4,3,4,3,4,4,3,2,3,3,2,4,3,1,1,4
+R0382,Female,Managerial,SME (<500),Manufacturing,North Africa,Full Deployment,8,5,3,5,3,3,3,3,3,3,4,3,2,5,3,1,2,3,2,3,2,1,2,2,4,2,3,2,3
+R0383,Male,Operational,Large (>500),Logistics,North Africa,Full Deployment,10,3,3,4,3,4,4,3,4,2,3,4,3,3,5,3,4,4,5,2,2,5,3,1,2,2,3,2,1
+R0384,Male,Operational,Large (>500),Financial Services,North Africa,Full Deployment,2,3,3,4,4,4,3,3,3,2,3,4,4,3,4,2,3,4,5,4,4,2,2,2,4,1,2,2,2
+R0385,Male,Managerial,SME (<500),Manufacturing,Gulf,Early Exploration,3,4,3,4,3,4,4,4,4,4,3,3,1,3,4,3,2,2,3,2,2,4,4,3,2,4,4,2,3
+R0386,Female,Managerial,Large (>500),Logistics,Europe,Full Deployment,9,4,2,4,4,3,4,3,3,3,3,5,4,3,4,3,3,3,4,3,3,4,2,3,2,3,3,2,2
+R0387,Male,Operational,SME (<500),Financial Services,Europe,Early Exploration,10,3,4,4,4,4,4,3,3,3,3,3,4,4,2,3,2,2,2,4,2,4,1,2,3,2,2,3,2
+R0388,Female,Operational,Large (>500),Financial Services,Europe,Pilot,8,3,4,3,3,3,4,4,3,2,3,3,2,4,4,3,3,3,3,3,3,2,3,3,2,2,3,4,2
+R0389,Male,Managerial,SME (<500),Logistics,Gulf,Full Deployment,11,4,2,3,4,5,3,4,3,4,3,3,3,4,3,3,3,3,5,2,2,3,4,1,3,3,3,2,2
+R0390,Male,Operational,SME (<500),Logistics,Europe,Full Deployment,20,4,3,5,3,3,3,4,4,2,2,4,4,4,1,4,3,4,2,2,1,3,1,2,3,1,4,2,2
+R0391,Male,Managerial,SME (<500),Manufacturing,North Africa,Full Deployment,20,3,4,3,4,4,3,3,3,3,4,2,2,3,4,1,3,3,3,4,3,4,1,2,2,3,2,3,2
+R0392,Female,Operational,Large (>500),Logistics,Europe,Early Exploration,19,4,4,5,4,3,3,4,5,3,4,3,2,3,3,2,2,2,2,2,1,3,4,3,4,2,1,4,1
+R0393,Female,Operational,Large (>500),Technology,Gulf,Pilot,9,4,3,4,5,4,3,4,3,4,5,3,3,3,3,4,2,4,3,2,4,2,4,4,2,1,2,4,2
+R0394,Male,Managerial,SME (<500),Logistics,North Africa,Early Exploration,5,3,4,5,2,3,2,2,5,3,3,3,4,3,5,3,3,2,3,2,2,2,4,2,1,2,2,2,1
+R0395,Female,Operational,Large (>500),Other,Europe,Pilot,10,3,3,5,3,4,4,3,3,4,3,4,4,3,4,4,4,3,4,4,3,4,1,2,2,3,3,2,1
+R0396,Female,Operational,Large (>500),Technology,Europe,Full Deployment,6,4,2,3,3,3,4,4,3,3,2,4,4,3,4,3,3,3,5,2,4,5,1,3,2,3,3,2,2
+R0397,Male,Operational,SME (<500),Technology,Gulf,Full Deployment,20,3,4,4,4,4,4,4,3,3,3,3,3,5,3,4,4,4,2,3,4,3,3,1,3,1,2,3,3
+R0398,Female,Managerial,SME (<500),Other,Europe,Early Exploration,7,4,5,4,3,4,4,4,4,4,2,4,4,4,3,2,2,3,2,2,2,4,2,2,2,2,2,3,1
+R0399,Female,Operational,Large (>500),Other,Europe,Early Exploration,6,4,3,4,4,2,2,3,5,2,2,4,3,2,3,4,2,2,2,2,2,3,3,2,1,1,2,4,3
+R0400,Male,Operational,Large (>500),Manufacturing,North Africa,Full Deployment,20,4,5,4,4,3,3,3,3,4,4,4,2,3,3,2,2,2,3,2,3,4,3,2,3,1,2,1,4
+R0401,Male,Operational,Large (>500),Logistics,North Africa,Early Exploration,10,4,3,3,4,4,4,3,4,3,4,4,3,2,3,1,2,2,3,3,5,2,2,3,3,2,3,4,4
+R0402,Female,Managerial,Large (>500),Manufacturing,Europe,Early Exploration,19,3,5,5,3,4,5,4,3,3,4,3,4,3,4,2,3,1,2,4,4,3,3,3,1,3,4,3,2
+R0403,Male,Operational,Large (>500),Technology,Europe,Pilot,9,4,5,5,3,4,4,3,3,4,2,3,4,4,3,2,3,4,2,3,3,3,2,2,2,3,2,4,3
+R0404,Male,Operational,Large (>500),Manufacturing,Europe,Early Exploration,4,3,3,3,4,4,4,3,4,3,4,3,3,5,4,3,4,1,3,2,3,2,3,2,1,3,3,3,3
+R0405,Male,Operational,Large (>500),Financial Services,Europe,Early Exploration,22,3,4,4,4,3,4,4,5,4,4,3,3,3,3,3,3,1,4,3,4,3,3,3,2,1,2,4,1
+R0406,Female,Operational,SME (<500),Logistics,Europe,Full Deployment,2,4,3,4,3,5,4,4,4,2,4,3,3,4,3,5,3,3,2,4,3,3,3,3,3,4,4,3,1
+R0407,Male,Operational,Large (>500),Logistics,Europe,Early Exploration,5,4,3,3,3,4,4,3,4,2,3,2,3,4,3,2,2,3,2,3,2,3,5,3,4,3,3,5,4
+R0408,Male,Managerial,SME (<500),Logistics,North Africa,Pilot,13,4,4,4,3,4,3,3,4,3,3,4,3,4,5,3,3,2,4,2,3,4,4,2,3,2,2,2,3
+R0409,Male,Operational,Large (>500),Other,North Africa,Pilot,18,3,4,5,3,4,4,3,4,4,3,3,2,4,4,2,2,2,3,2,2,3,3,3,1,4,1,1,3
+R0410,Female,Managerial,SME (<500),Manufacturing,Gulf,Early Exploration,16,4,3,4,5,4,5,4,4,3,3,4,4,4,5,4,2,1,2,4,5,3,3,2,1,3,5,3,4
+R0411,Female,Managerial,SME (<500),Manufacturing,Gulf,Early Exploration,13,5,2,4,4,5,3,3,4,2,3,4,3,3,2,3,2,3,2,3,5,2,5,3,2,1,2,2,4
+R0412,Female,Managerial,Large (>500),Logistics,Europe,Full Deployment,24,3,3,4,3,3,4,4,4,4,3,3,5,2,4,3,4,5,3,3,3,4,2,4,2,1,3,2,4
+R0413,Female,Operational,Large (>500),Other,North Africa,Early Exploration,14,4,3,5,4,4,4,5,2,4,2,4,4,3,3,2,5,2,1,3,2,3,3,2,3,3,2,2,2
+R0414,Female,Managerial,SME (<500),Logistics,Europe,Pilot,20,3,5,4,4,4,4,4,3,4,3,3,3,3,4,3,3,2,3,4,3,2,1,1,4,3,1,2,2
+R0415,Male,Managerial,Large (>500),Technology,Europe,Full Deployment,20,4,3,4,4,4,3,3,4,3,4,2,4,3,2,3,2,2,1,2,2,2,3,4,3,3,2,3,1
+R0416,Male,Operational,SME (<500),Financial Services,North Africa,Early Exploration,24,3,4,4,3,4,4,4,2,3,4,4,3,4,3,1,2,4,2,2,4,2,1,3,2,4,2,3,1
+R0417,Female,Managerial,SME (<500),Other,North Africa,Early Exploration,14,5,2,3,3,2,4,4,3,3,2,2,3,4,4,2,4,3,2,4,1,4,2,3,3,2,2,2,4
+R0418,Female,Managerial,SME (<500),Logistics,North Africa,Full Deployment,18,4,4,4,3,4,4,5,4,2,3,3,3,4,2,3,1,3,2,2,3,2,2,3,1,3,2,2,2
+R0419,Female,Managerial,SME (<500),Technology,North Africa,Early Exploration,9,4,4,4,4,4,5,3,3,4,3,4,4,4,3,2,3,5,4,4,2,4,2,3,1,5,2,3,3
+R0420,Female,Operational,Large (>500),Logistics,Gulf,Early Exploration,10,4,3,4,4,4,3,4,4,5,3,3,3,4,4,4,4,2,3,4,2,5,3,3,1,3,1,2,3
+R0421,Male,Managerial,Large (>500),Logistics,Gulf,Pilot,14,3,4,4,4,4,4,5,3,3,4,3,3,3,4,3,3,1,3,2,2,2,2,2,2,3,1,2,2
+R0422,Male,Operational,Large (>500),Technology,Europe,Pilot,23,4,4,4,4,4,4,3,4,3,3,3,4,5,4,2,4,4,1,2,2,3,3,2,3,3,2,3,4
+R0423,Female,Managerial,SME (<500),Manufacturing,Gulf,Early Exploration,4,4,3,3,3,3,4,3,5,3,3,4,3,3,3,3,3,4,3,4,4,2,3,2,2,1,2,3,2

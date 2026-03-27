@@ -1,0 +1,20 @@
+# Load data
+data <- read.csv("survey_responses_anonymized.csv")
+
+# Descriptive statistics
+summary(data)
+
+# Reliability (Cronbach alpha)
+library(psych)
+alpha(data)
+
+# Factor analysis
+fa_result <- fa(data, nfactors=4, rotate="varimax")
+print(fa_result)
+
+# Regression models
+model1 <- lm(Efficiency ~ AI_Usage + Company_Size, data=data)
+summary(model1)
+
+model2 <- lm(Candidate_Experience ~ AI_Usage, data=data)
+summary(model2)
